@@ -2,11 +2,11 @@ import random
 import asyncio
 import twitchio
 from twitchio.ext import commands
-from config import token
+from config import token,channels
 
 # Настройки
 OAUTH_TOKEN = token
-CHANNELS = ['Kusti0_0']  # Список каналов
+CHANNELS = channels  # Список каналов
 MESSAGE_INTERVAL = 10  # Интервал в минутах
 
 # Читаем строки из файла

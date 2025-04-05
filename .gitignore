@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-config.py
+config copy.py
 .Python
 build/
 develop-eggs/
