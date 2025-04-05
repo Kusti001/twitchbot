@@ -1,3 +1,3 @@
 @echo off
-.venv\Scripts\python.exe bot.py
+venv\Scripts\python.exe bot.py
 pause
